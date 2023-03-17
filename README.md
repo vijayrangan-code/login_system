@@ -4,5 +4,5 @@ HTML
 CSS
 MYSQL
 EXPRESS JS
-NODEJS
-PORT - localost/3000
+NODEJS.
+PORT - localhost/3000
