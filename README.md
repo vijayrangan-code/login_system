@@ -1,0 +1,8 @@
+This is simple LOGIN AND REGISTRATION
+Using Stacks..
+HTML
+CSS
+MYSQL
+EXPRESS JS
+NODEJS
+PORT - localost/3000
